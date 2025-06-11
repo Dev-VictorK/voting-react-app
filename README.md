@@ -4,6 +4,10 @@ This is a simple React app created using Create React app.
 It allows you to upvote or downvote listed products.
 The app is not stateful and any changes made do not persist if you refresh the browser/re-run it.
 
+## App Preview
+
+![Home Page](./src/assets/screenshots/voting-home.PNG)
+
 ### Prerequisites
 
 Node.js (v14 or later)
