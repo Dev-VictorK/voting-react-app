@@ -88,6 +88,7 @@ class Product extends react.Component {
           className='rounded float-end'
             src={this.props.productImageUrl}
             width='200px'
+            alt="item"
           />
         </div>
         <div className='col-7'>
@@ -102,6 +103,7 @@ class Product extends react.Component {
               src={this.props.submitterAvatarUrl}
               width='20px'
               height='20px'
+              alt="submitter"
             />
           </div>
           <div className='vote'>
